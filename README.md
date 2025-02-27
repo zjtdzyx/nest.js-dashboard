@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+## 财务管理简单仪表板
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+这是根据Nest.js官方文档构建的简易的财务管理仪表板，是学习Nest.js的一个简单的Demo
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## 技术栈：Nest.js  TS Tailwind  ProgresSQL Vercel
+
